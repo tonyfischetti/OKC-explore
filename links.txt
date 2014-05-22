@@ -1,0 +1,5 @@
+https://github.com/evfredericksen/pyokc/blob/master/pyokc/objects.py
+http://science.slashdot.org/story/14/01/22/1428224/python-scripting-and-analyzing-your-way-to-love
+http://andrewmatteson.com/blog/2012/07/30/data-mining-okcupid/
+http://www.fastcolabs.com/3006562/reading-list/reverse-engineering-okcupid-learn-python
+https://www.google.com/#q=http:%2F%2Fdavidshimel.com%2Freverse-engineering-okcupid%2F
