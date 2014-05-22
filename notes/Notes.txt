@@ -1,0 +1,72 @@
+Parts of names
+Sparse User - Fill account using feature association rules
+False Account Identification
+Cosine Similarity
+Association Rules
+
+1. Identify relevant Features across okc
+    Identify relevant features accross other site
+2. Scrapping process
+3. Representation of storage
+   1. Storing it to files:
+    Several - XMLS:
+        Tables?
+4. Defining a set of queries to partition and represent our data
+4. looking at the same question according to other     
+5.
+     1. Scrapping Data - Doable
+
+2. Data Representation
+
+3. Questions to ask
+Associated Personality with Attractiveness
+Same with Regional areas
+Validate, but generating model and then comparing randomly visiting profiles
+versus visiting profile s with high likelihood of perceived attractiveness
+
+
+Height versus demographic Informatoin differences
+Ethnicity, religion
+
+Reverse engineer their matching the algorithm
+
+Demographic information
+Question Section
+
+Take various Profiles of GA - take out sentences that seem cool
+Crowdsource evaluation
+Genetic algorithm release it
+
+
+NUmber of pictures posted - Gender
+Regional Differences
+
+
+Myer Briggs = Correlation
+Questions with MyerBriggs
+Demographic informaiton with MyerBriggs Test
+
+Income to job - Are they lying, pay scale occupation
+Income <->
+Education Level
+
+Education correlating to politics
+
+Can you separate the trolls from the people are just retarded
+
+Attractiveness and weight and hieght metrics metrics
+
+We can look at attractivenss features of weight and height across ethnicity for
+men and women - account for age, see their differential
+account ehtnicity
+account for region
+
+
+Correlating Personality characteristics between other regions
+versus american with same ethnicity
+
+Regional Comparison Of Singles Of males verus females
+VERSUS
+Overall gender population given same demographic range
+
+Sauraus Nmaes
