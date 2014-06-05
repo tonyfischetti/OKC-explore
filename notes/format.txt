@@ -1,0 +1,73 @@
+<okc-profiles>
+  <okc-profile>
+    <meta is_publically_accessible=True_False>
+    <header>
+      #Careful with attribute naming - i.e - 'type'
+      <profile-name>
+      <age>
+      <gender>
+      <response-selectivity> #send a message
+      <location> #How is it actually represented
+    <about>
+      <my-details> #categorical
+        <last-online> #NOT CATEGORICAL, hourly if on recent, daily if been a few days, monthly if been a few months
+        <orientation>
+        <ethnicity>
+        <height> #numeric
+        <body-type>
+        <diet>
+        <smokes>
+        <drinks>
+        <drugs>
+        <religion>
+        <sign>
+        <education>
+        <job>
+        <income>
+        <relationship-status>
+        <relationship-type>
+        <offspring>
+        <pets>
+        <languages>
+      <main-body>
+       <self-summary type=freeform>
+       <doing-with-life>
+       <good-at>
+       <notice-about-me>
+       <favorite-stuff>
+       <never-do-without>
+       <thinking-about>
+       <typical-friday>
+       <most-private>
+       <looking-for> #categorical
+        <?> #Segments?
+       <should-message-me>
+    <similar-users>
+      <user name=??>
+    <photos>
+      <picture link=?? caption=??/>
+    <questions>
+      <questions-answered>
+      <questions-private>
+        <question name="" attributes-for-each-category=True or False Text-Attribute=""> # Go through each public mathc question, then go through each subcategory and append
+    <personality>
+     <personality-traits  type='name' attribute=numerical percentage>
+     
+    <Best_Face user_name="">
+      <photo link score
+
+<My_Best_Face>
+    <Name>
+    <RID>
+    <Photos>
+        <Photo Winner=True Score Artist_Score=10....>
+        
+    <Vote_Distrubtion>
+        <Total number=100 number selected =60 number_reject =40 Percent =60%>
+        <Liberal...>
+        
+    <Votes>
+        <Vote Won=> #NOTE Photos CROPPED SO DOn'T USE FOR ANLAYSIS
+            <Voter Profile_Name RID_Link Gender Age Orient Location>
+            <Competition Profile_Name RID_Link Photo_Link>
+            <Home Photo_Link>
